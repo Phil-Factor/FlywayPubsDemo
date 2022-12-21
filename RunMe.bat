@@ -1,0 +1,1 @@
+set FLYWAY_CONFIG_FILES=%userprofile%\PubsSearch.conf
