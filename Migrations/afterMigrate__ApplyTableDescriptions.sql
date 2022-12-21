@@ -7,7 +7,6 @@ Flyway will produce this as a routine if you want, using
  */
 DECLARE @JSONTablesAndColumns NVARCHAR(MAX) =
   N'[
-[
    {
       "TableObjectName":"dbo.publications",
       "Type":"user table",
